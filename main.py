@@ -10,8 +10,6 @@ print('Hallo Leute')
 
 print('Hello')
 
-x = 20
-y = 33
-z = x + y
+x, y = 2, 3
 
 print('bye')
