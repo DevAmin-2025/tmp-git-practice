@@ -6,3 +6,5 @@ print('Ich lerne seit fast sechs Moneten Deutsch')
 
 print('Ich muss damit anfangen, Deutschsprechen zo lernen')
 print('Ich muss damit anfangen, Deutschsprechen zo lernen')
+
+x = 2
