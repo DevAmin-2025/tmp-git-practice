@@ -37,3 +37,7 @@ def mul (a, b):
     :rtype: _type_
     """
     return a * b
+
+def pow(a, b):
+    c = a ** b
+    return c
