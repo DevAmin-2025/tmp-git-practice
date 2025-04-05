@@ -19,3 +19,4 @@ while True:
     if num == 10:
         break
     num += 1
+    print('not 10 yet')
