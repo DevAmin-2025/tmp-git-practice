@@ -24,6 +24,10 @@ def mul (a, b):
     """
     return a * b
 
+
 def pow(a, b):
     c = a ** b
     return c
+
+def div(a, b):
+    return a // b
