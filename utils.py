@@ -30,10 +30,6 @@ def pow(a, b):
     return c
 
 
-def pow3(a):
-    return a * a * a
-
-
 def div(a, b):
     """
     devide two numbers.
