@@ -27,3 +27,6 @@ def mul (a, b):
 def pow(a, b):
     c = a ** b
     return c
+
+def pow3(a):
+    return a * a * a
