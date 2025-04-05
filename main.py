@@ -15,7 +15,3 @@ x, y = 2, 3
 print('bye')
 
 num = 0
-while True:
-    if num == 10:
-        break
-    num += 1
