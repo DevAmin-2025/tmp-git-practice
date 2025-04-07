@@ -29,6 +29,5 @@ def pow(a, b):
     c = a ** b
     return c
 
-
 def div(a, b):
     return a // b
