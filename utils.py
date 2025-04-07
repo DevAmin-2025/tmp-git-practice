@@ -31,14 +31,4 @@ def pow(a, b):
 
 
 def div(a, b):
-    """
-    devide two numbers.
-
-    :param a: _description_
-    :type a: _type_
-    :param b: _description_
-    :type b: _type_
-    :return: _description_
-    :rtype: _type_
-    """
     return a // b
